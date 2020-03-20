@@ -1,0 +1,6 @@
+sung rekaaans
+menggila ini rekaans
+<<<<<<< HEAD
+=======
+kok makin surram biji 
+>>>>>>> test
